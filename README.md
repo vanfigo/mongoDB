@@ -1,2 +1,2 @@
 # mongoDB
-Practice examples from mongoFB University
+Practice examples from mongoDB University
