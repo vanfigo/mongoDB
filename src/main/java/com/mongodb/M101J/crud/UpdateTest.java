@@ -38,6 +38,8 @@ public class UpdateTest {
 		for(Document document : collection.find().into(new ArrayList<Document>())) {
 			printJson(document);
 		}
+		
+		client.close();
 	}
 
 }
